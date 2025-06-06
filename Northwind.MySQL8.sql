@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------- #
 # Target DBMS:           MySQL                                           #
-# Project name:          Northwind                                       #
+# Project name:          CarDealershipDataBase                           #
 # ---------------------------------------------------------------------- #
 DROP DATABASE IF EXISTS CarDealershipDatabase;
 
